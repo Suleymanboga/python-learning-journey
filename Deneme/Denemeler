@@ -1,0 +1,2 @@
+mesaj = "python"
+print(mesaj.upper())
